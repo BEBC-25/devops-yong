@@ -12,7 +12,7 @@ AWS 클라우드 인프라 설계, Docker 컨테이너 가상화 기술, 그리�
   - [1.6 계정 보안](docs/01.aws/06.account_security.md)
 - [2. Docker 컨테이너 기본 원리 및 최적화](docs/02.docker/)
   - [2.1 Docker 기본 원리 및 실습](docs/02.docker/01.docker_basic.md)
-  - 2.2 Dockerfile 설계 및 이미지 최적화
+  - [2.2 Dockerfile 설계 및 이미지 최적화](docs/02.docker/02.dockerfile.md)
   - 2.3 Docker Compose 다중 컨테이너 오케스트레이션
 
 
