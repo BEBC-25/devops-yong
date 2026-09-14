@@ -16,4 +16,4 @@ AWS 클라우드 인프라 설계, Docker 컨테이너 가상화 기술, 그리�
   - [2.3 Docker Compose 다중 컨테이너 오케스트레이션](docs/02.docker/03.docker-compose.md)
 - [3. CI/CD 파이프라인 구축 및 배포 자동화](docs/03.cicd/)
   - [3.1 mybatis-sns 컨테이너라이징 및 AWS EC2 배포 실습](docs/03.cicd/01.ec2_docker_deploy.md)
-
+  - [3.2 GitHub Actions 기반 CI/CD 파이프라인 구축 및 자동 배포](docs/03.cicd/02.ci_cd_github_actions.md)
